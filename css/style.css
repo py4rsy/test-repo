@@ -27,6 +27,9 @@ p {
 	margin: 20px 0;
     font: 16px Georgia, sans-serif;
 	display: inline-block;
+	-ms-hyphens: auto;
+	-webkit-hyphens: auto;
+	hyphens: auto;
 }
 
 #wrapper {
